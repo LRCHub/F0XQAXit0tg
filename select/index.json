@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "公開処刑（feat. BOY-KEN）",
+  "base_artist": "キングギドラ",
+  "createdAt": "2026-02-16T07:38:24.215074Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "公開処刑 (KARANG Remix)",
+      "artist": "キングギドラ Feat. BOY-KEN, TURBULENCE",
+      "has_synced": false,
+      "path": "select/pl_01_公開処刑_(KARANG_Remix)_キングギドラ_Feat._BOY-KEN,_TURBULENCE.txt"
+    }
+  ]
+}
